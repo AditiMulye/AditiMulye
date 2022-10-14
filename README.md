@@ -3,7 +3,7 @@
 ### Hi there, I am Aditi 👋
 
 - 🔭 I’m currently a Data Science Graduate Student at Indiana Univeristy Bloomington.
-- 🌱 I’m love ML and Statistics.
+- 🌱 I love ML and Statistics.
 - 👯 I’m looking to collaborate on NLP projects.
 - 💬 Ask me about Anything.
 - <a href="https://www.aditimulye.com/_files/ugd/0ee56c_943679ac4a6d41f3987fcdbc4c98932e.pdf" target="_blank">Aditi Mulye Resume</a>
