@@ -9,8 +9,6 @@
 - <a href="https://www.aditimulye.com/_files/ugd/0ee56c_943679ac4a6d41f3987fcdbc4c98932e.pdf" target="_blank">Aditi Mulye Resume</a>
 
 
-![profile count](https://komarev.com/ghpvc/?username=harshitlikhar&color=blue)&nbsp;
-
 #### Find me around the web 🌎:
 - 🖥 Everything about me on my <a href="https://www.aditimulye.com/">website</a> 
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/aditi-mulye-a93038138/">LinkedIn</a> 
